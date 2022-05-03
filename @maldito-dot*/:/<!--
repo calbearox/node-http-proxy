@@ -1,0 +1,6 @@
+dependencies {
+    val appcompat_version = "1.4.1"
+
+    implementation("androidx.appcompat:appcompat:$appcompat_version")
+    // For loading and tinting drawables on older versions of the platform
+https://github.com/M1-Cal/potential-money/pull/$BUNDLE_APP_CONFIG/config
